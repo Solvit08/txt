@@ -1,0 +1,5 @@
+Skill 1 - Terminal
+Skill 2 - Github
+Skill 3 - QA documentation
+Skill 4 - QA practice
+Skill 5 - English improving
