@@ -13,6 +13,8 @@
  >git push
  7. Edit the contents of the file “new.txt ” - write information about yourself (full name, age, number of pets, future desired salary). Write everything in TXT format.
  >vim new.txt
+ >
+ >write information
  8. Send the changes to an external repository.
  >git add new.txt; git commit -m "txt_2"; git push
  9. Create a preferences.txt file
@@ -21,6 +23,7 @@
  > vim preferences.txt
  11. Create a sklls.txt file add information about the skills that will be studied on the course in TXT format
  > cat >skills.txt
+ >
  > add information
  12. Make a commit in one line.
  > git add .; git commit -m "txt_3";
@@ -32,6 +35,7 @@
  > create file
  16. Modify the bug_report.txt file on the web interface , add a bug report in TXT format.
  > edit this file
+ >
  > write bug report
  17. Make Commit changes (save) changes on the web interface.
  > commit changes
