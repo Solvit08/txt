@@ -1,0 +1,6 @@
+First name - Vitalik
+Last name - Soldatenko
+Age - 26
+Number of pets - 2
+fututre desired salary - 3000
+
